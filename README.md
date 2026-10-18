@@ -68,4 +68,4 @@ TarotOfDestiny/
 
 ## 📜 Lisans
 
-Bu proje açık kaynaklı olarak geliştirilmiştir.<img width="1871" height="902" alt="Ekran görüntüsü 2026-10-18 184355" src="https://github.com/user-attachments/assets/e362b618-33d3-44ac-b98a-a0ed65717d4e" />
+Bu proje açık kaynaklı olarak geliştirilmiştir.
